@@ -1,0 +1,7 @@
+[NCBI]
+Data=/opt/bio/ncbi/data/
+
+[mpiBLAST]
+Shared=/export/home/u4/bio/ncbi/db/
+Local=/tmp/u4/db/
+
